@@ -1,2 +1,4 @@
-# Classificador-de-imagens-usando-Redes-Neurais-Convolucionais
-Trabalho da disciplina Introdução à visão computacional que busca desenvolver um projeto completo de classificação de imagens utilizando redes neurais convolucionais (CNNs), incluindo experimentação, análise de resultados, documentação e apresentação.
+# Dependencias:
+Projeto desenvolvido no Google Colab, a pasta com o dataset deve estar disponível no Google Drive com o caminho '/content/drive/MyDrive/ProjetoOxfordPets/images'.
+
+Alunos: Arthur Roberto de Paula Neto - 8079
